@@ -1,4 +1,4 @@
-from informed_search import *
+from state_space_search.informed_search import *
 
 
 class Black_White(Problem):

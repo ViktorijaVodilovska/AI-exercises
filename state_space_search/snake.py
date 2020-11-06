@@ -1,4 +1,4 @@
-from uninformed_search import *
+from state_space_search.uninformed_search import *
 
 labels = ["ProdolzhiPravo", "SvrtiLevo", "SvrtiDesno"]
 

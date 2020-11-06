@@ -1,5 +1,4 @@
-from informed_search import *
-from sys import maxsize as infinity
+from state_space_search.informed_search import *
 
 
 def manhattan(x, y):

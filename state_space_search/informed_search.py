@@ -1,5 +1,5 @@
 from sys import maxsize as infinity
-from utils import *
+from state_space_search.utils import *
 
 """
 Информирано пребарување во рамки на граф

@@ -1,5 +1,4 @@
-from uninformed_search import *
-from informed_search import *
+from state_space_search.informed_search import *
 
 
 class Exchange(Problem):

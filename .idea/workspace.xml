@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4442b553-2e01-4cd1-8f78-a7328ef14345" name="Default Changelist" comment="" />
+    <list default="true" id="4442b553-2e01-4cd1-8f78-a7328ef14345" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/N_knights.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/N_knights.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/bridges.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/bridges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/cancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/cancer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/crno_belo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/crno_belo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/crno_belo_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/crno_belo_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/cryotherapy_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/cryotherapy_bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/discs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/discs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/fish.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/fish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/glasanje.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/glasanje.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/informed_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/informed_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/istrazuvac_vo_graf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/istrazuvac_vo_graf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/kruzna_pateka.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/kruzna_pateka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/kulite_na_hanoj.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/kulite_na_hanoj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/lab6__solaren.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/lab6__solaren.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/molecule.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/molecule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/overfitting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/overfitting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/pacman.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/pacman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/pacman_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/pacman_exchange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/podvizni_prepreki.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/podvizni_prepreki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/preciznost.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/preciznost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/queens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/solar_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/solar_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/solaren_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/solaren_bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/uninformed_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/uninformed_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/state_space_search/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-exercises/validacija.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-exercises/classifiers/validacija.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +43,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../AI-exercises" />
+  </component>
   <component name="ProjectId" id="1ZoDIUlSy6s9QmYrddLds0BuZkH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vikto\PycharmProjects\AI-exercises\classifiers" />
+      <recent name="C:\Users\vikto\PycharmProjects\AI-exercises\state_space_search" />
       <recent name="C:\Users\vikto\PycharmProjects\VI-exercises" />
     </key>
   </component>
@@ -248,7 +283,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/kruzna_pateka.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/state_space_search/kruzna_pateka.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -258,32 +293,32 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/overfitting.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/classifiers/overfitting.py</url>
           <line>465</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/podvizni_prepreki.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/state_space_search/podvizni_prepreki.py</url>
           <line>54</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/crno_belo_2.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/state_space_search/crno_belo_2.py</url>
           <line>11</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/istrazuvac_vo_graf.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/state_space_search/istrazuvac_vo_graf.py</url>
           <line>32</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/molecule.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/state_space_search/molecule.py</url>
           <line>16</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../AI-exercises/glasanje.py</url>
+          <url>file://$PROJECT_DIR$/../AI-exercises/classifiers/glasanje.py</url>
           <line>176</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>

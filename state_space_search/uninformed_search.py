@@ -1,6 +1,6 @@
 import sys
 
-from utils import *
+from state_space_search.utils import *
 
 """
 Неинформирано пребарување во рамки на дрво.
